@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#include "EuroScopePlugIn.h"
+#include <EuroScopePlugIn.h>
 #include "Plugin.h"
 
 ESPlugin  * gpMyPlugin = NULL;
